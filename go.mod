@@ -1,3 +1,3 @@
-module github.com/Masterminds/semver/v5
+module github.com/Masterminds/semver
 
-go 1.12
+go 1.17
